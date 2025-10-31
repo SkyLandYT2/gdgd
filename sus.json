@@ -1,1 +1,33 @@
-"test":{"name":"porno","artist":"skyl","startOffset":0,"url":"https://github.com/SkyLandYT2/gdgd/raw/refs/heads/songs/586809goblin-ver.mp3","songs":[586809],"verifiedLevelIDs":[60993841]}
+{
+  "manifest": 1,
+  "name": "Sus Hub",
+  "id": "sus-hub-index",
+  "description": "Sus Hub Index",
+  "lastUpdate": 1761952455,
+  "links": {
+    "discord": "https://discord.gg/maSgd4zpEF"
+  },
+  "features": {
+    "submit": {
+      "supportedSongTypes": ["local", "youtube", "hosted"],
+      "preSubmitMessage": "test.",
+      "requestParams": {
+        "url": "https://discord.gg/maSgd4zpEF",
+        "params": false
+      }
+    }
+  },
+  "nongs": {
+    "youtube": {},
+    "hosted": {
+      "skyl-porno-586809": {
+        "name": "porno",
+        "artist": "skyl",
+        "startOffset": 0,
+        "url": "https://github.com/SkyLandYT2/gdgd/raw/refs/heads/songs/586809goblin-ver.mp3",
+        "songs": [586809],
+        "verifiedLevelIDs": [60993841]
+      }
+    }
+  }
+}
