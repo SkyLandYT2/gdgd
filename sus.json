@@ -3,7 +3,7 @@
   "name": "Sus Hub",
   "id": "sus-hub-index",
   "description": "Sus Hub Index",
-  "lastUpdate": 1761952457,
+  "lastUpdate": 1761952458,
   "links": {
     "discord": "https://discord.gg/maSgd4zpEF"
   },
@@ -31,7 +31,7 @@
       "fash-Right-1266014": {
         "name": "Right Version",
         "artist": "Fash",
-        "startOffset": 22,
+        "startOffset": 0,
         "url": "https://github.com/SkyLandYT2/gdgd/raw/refs/heads/main/songs/1266014Right-ver.mp3",
         "songs": [1266014],
         "verifiedLevelIDs": [86407629]
